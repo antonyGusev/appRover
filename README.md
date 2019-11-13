@@ -10,7 +10,5 @@ You can try change commands.
 Valid commands 'F', 'L', 'R'
 
 The command F will make it move one step forward.
-
 The command L will make it turn left 90 degrees.
-
 The command R will make it turn right 90 degrees.
